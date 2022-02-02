@@ -4,70 +4,70 @@
 
 
 
-## Nom de l'artiste ou de la firme :
+## 2. Nom de l'artiste ou de la firme :
 
 
 
 
-## Année de réalisation :
+## 3. Année de réalisation :
 
 
 
 
-## Nom de l'exposition ou de l'événement :
-
-
-
-
-
-## Lieu de mise en exposition :
+## 4. Nom de l'exposition ou de l'événement :
 
 
 
 
 
-## Date de votre visite : 
+## 5. Lieu de mise en exposition :
 
 
 
 
 
-## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+## 6. Date de votre visite : 
+
+
+
+
+
+## 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
 
 
 
 
 
 
-## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
+## 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
 
 
 
 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
+## 9. Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
 
 
 
 
 
-## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...) :
+## 10. Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...) :
 
 
 
-## Expérience vécue :
+## 11. Expérience vécue :
 
- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ a) Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
- ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ b) ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
- 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ c) 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
  
  
  
 
- ## Références :
+ ## 12. Références :
  
  
  
