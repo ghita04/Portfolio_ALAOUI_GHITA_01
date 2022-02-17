@@ -1,20 +1,24 @@
 ## 1. Titre de l'oeuvre ou de la réalisation :
 
-
-
+Le titre de l'oeuvre est *Intensive Care Unit* aussi connue sous l'acronyme *I.C.U*. 
 
 
 ## 2. Nom de l'artiste ou de la firme :
 
+L'oeuvre a été réalisée par Bill Vorn. 
 
 
 
 ## 3. Année de réalisation :
 
+L'oeuvre a été réalisé en 2021
+
 
 
 
 ## 4. Nom de l'exposition ou de l'événement :
+
+Le nom de l'évènement est la 5er Biennale internationale d'art numérique (BIAN), qui a été organisé ELEKTA et le nom de l'expo Metamorphis 
 
 
 
@@ -22,17 +26,23 @@
 
 ## 5. Lieu de mise en exposition :
 
+L'Arsenal contomporain 
+
 
 
 
 
 ## 6. Date de votre visite : 
 
+9 février 2021
+
 
 
 
 
 ## 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+
+I.C.U (Intensive Care Unit) est une installation robotique mettant en scène des machines alités, maladives et souffrantes réagissant à la présence des spectacteurs dans une allégorie mé
 
 
 
