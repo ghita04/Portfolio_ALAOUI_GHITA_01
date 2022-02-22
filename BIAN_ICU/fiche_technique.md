@@ -34,10 +34,7 @@
 # Description générale :
 
 
-
-
-
-## 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+## 7. Description de l'oeuvre ou du dispositif multimédia :  
 
 I.C.U (Intensive Care Unit) est une installation robotique mettant en scène des machines alités, maladives et souffrantes réagissant à la présence des spectacteurs dans une allégorie mé
 
