@@ -1,17 +1,17 @@
 ## 1. Titre de l'oeuvre ou de la réalisation :
 
-Le titre de l'oeuvre est *Intensive Care Unit* aussi connue sous l'acronyme *I.C.U*. 
+*Intensive Care Unit* aussi connue sous l'acronyme *I.C.U*. 
 
 
 ## 2. Nom de l'artiste ou de la firme :
 
-L'oeuvre a été réalisée par Bill Vorn. 
+Bill Vorn. 
 
 
 
 ## 3. Année de réalisation :
 
-L'oeuvre a été réalisé en 2021
+2021
 
 
 
