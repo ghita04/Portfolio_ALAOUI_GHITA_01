@@ -27,7 +27,7 @@
 - Robots placés à des distances quasi équivalente 
 
 
-### Fils 
+### Fils :
 
 - Fils dissimulés dans le mur et sous du papier adhésif 
 
@@ -36,7 +36,7 @@
 - La boite d'alimentation est au fond à gauche de la salle 
 
 
-
+#### Note de bas de page 
 
 *Une herse est la barre noir qui se trouve au dessus et qui soutient le cadre rectangulaire du robot, ainsi que l'éclairage*
 
