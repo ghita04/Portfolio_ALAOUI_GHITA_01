@@ -51,12 +51,19 @@ https://user-images.githubusercontent.com/93718412/155226832-786a8a6c-126e-45b6-
 
 Pour ce qui est des robots, leur fonctionnement est assez complexe. Les robots sont composés de barres en métal qui sont reliées à des tubes d'air comprimé qui permettent aux membres du robot de se déplacer. Ces tubes sont connectés à une multitude de fils qui sont ensuite connectés à une <<boite de contrôle>> remplie de fils. Au dessus de cette boite se trouve un écran similaire à celui qu'on retrouve dans les vrais hopitaux qui simulent le batement de coeur du robot. 
 
+Voilà comment fonctionne les robots : 
+
 
 https://user-images.githubusercontent.com/93718412/155230797-d7f40b61-b2f3-4130-b582-56c3fb5c182c.mov
 
 https://user-images.githubusercontent.com/93718412/155230829-68154b89-5fda-4570-9abe-32c1bb4a0c9b.mov
 
+Voilà le panneau de contrôle de plus près : 
 
+
+![panneau_de_controle](https://user-images.githubusercontent.com/93718412/155231341-a38d03fc-87f9-4ea0-b894-05bc3f48d2ba.jpeg)
+
+Et finalement, le panneau des battements de coeur :
 
 ![panneau_robot](https://user-images.githubusercontent.com/93718412/155231066-7562a0cd-46af-481a-b70f-e4e5a604133d.jpeg)
 
