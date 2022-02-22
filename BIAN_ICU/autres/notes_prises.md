@@ -38,3 +38,8 @@
 
 
 
+*Une herse est la barre noir qui se trouve au dessus et qui soutient le cadre rectangulaire du robot, ainsi que l'éclairage*
+
+
+
+
