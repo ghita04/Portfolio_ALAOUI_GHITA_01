@@ -8,7 +8,7 @@
 
 ## 2. Nom de l'artiste ou de la firme :
 
-### Bill Vorn. 
+### Bill Vorn
 
 
 ## 3. Année de réalisation :
