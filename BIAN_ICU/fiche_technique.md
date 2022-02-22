@@ -34,7 +34,7 @@ L'Arsenal contomporain
 # Description générale :
 
 
-## 7. Description de l'oeuvre ou du dispositif multimédia :  
+## 7. Description de l'oeuvre :  
 
 I.C.U (*Intensive Care Unit*) est une installation robotique mettant en scène des machines alités, maladives et souffrantes, réagissant à la présence des spectacteurs dans une allégorie médicale disjonctée où les créatures mécaniques et leur système de support vital s'animent avec peine et douleur, s'étirent, se recroquevillent, se disloquent et reprennent forme. Cette pièce a été conçue autour des thèmes plus généraux d'une <<ontologie de la machine>> et d'une <<esthétique des comportements>> dans une perspective de construction de l'artificiel basée sur l'aspect visuel des machines et la programmation de leurs réactions.
  
