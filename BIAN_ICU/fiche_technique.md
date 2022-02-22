@@ -45,9 +45,11 @@ I.C.U (*Intensive Care Unit*) est une installation robotique mettant en scène d
 
 ## 8. Explications sur la mise en espace de l'oeuvre : 
 
-L'oeuvre se trouve dans une grande pièce ouverte avec trois murs noirs. Les quatre installations de robots sont placés à distance assez égale. Chaque installation a son petit espace propre à elle. 
+L'oeuvre se trouve dans une grande pièce ouverte avec trois murs noirs. Les quatre installations de robots sont placées à distance assez égale. Chaque installation a son petit espace propre à elle. 
 
 https://user-images.githubusercontent.com/93718412/155226832-786a8a6c-126e-45b6-9024-7703d4e557b0.mov
+
+Pour ce qui est des robots, leur fonctionnement est assez complexe. Les robots sont composés de barres en métal qui sont reliées à des tubes d'air comprimé qui permettent aux membres du robot de se déplacer. Ces tubes sont connectés à une multitude de fils qui sont ensuite connectés à une <<boite de contrôle>> remplie de fils. Au dessus de cette boite se trouve un écran similaire à celui qu'on retrouve dans les vrais hopitaux qui simulent le batement de coeur du robot. 
 
 
 
