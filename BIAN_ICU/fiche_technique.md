@@ -18,7 +18,7 @@ Bill Vorn
 
 ## 4. Nom de l'exposition ou de l'événement :
 
-Le nom de l'évènement est la 5er Biennale internationale d'art numérique (BIAN), qui a été organisé ELEKTA et le nom de l'expo est Metamorphis 
+Le nom de l'évènement est la 5er Biennale internationale d'art numérique (BIAN) et a été organisé ELEKTA. Le nom de l'expo est Metamorphis 
 
 
 ## 5. Lieu de mise en exposition :
