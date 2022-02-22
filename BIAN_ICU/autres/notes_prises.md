@@ -15,7 +15,7 @@
 
 2. Tube qui sert de respirateur qui est aussi relié au panneau de contrôle 
 
-3. Soutenus par des fils à un cadre rectangulaire de LED qui est aussi soutenu par une herse qui est également soutenue au plafond
+3. Soutenus par des fils à un cadre rectangulaire de LED qui est aussi soutenu par une *herse* qui est également soutenue au plafond
 
 
 ### Espace général : 
@@ -25,6 +25,15 @@
 - Projecteurs rouge/vert sur les herses 
 
 - Robots placés à des distances quasi équivalente 
+
+
+### Fils 
+
+- Fils dissimulés dans le mur et sous du papier adhésif 
+
+- Les fils collés au mur sont attachés entre eux avec une petit ''ruban''
+
+- La boite d'alimentation est au fond à gauche de la salle 
 
 
 
