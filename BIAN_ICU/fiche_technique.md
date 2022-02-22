@@ -1,3 +1,6 @@
+# Informations générales :
+
+
 ## 1. Titre de l'oeuvre ou de la réalisation :
 
 ### *Intensive Care Unit* aussi connue sous l'acronyme *I.C.U*. 
@@ -5,36 +8,30 @@
 
 ## 2. Nom de l'artiste ou de la firme :
 
-Bill Vorn. 
-
+### Bill Vorn. 
 
 
 ## 3. Année de réalisation :
 
-2021
-
-
+### 2021
 
 
 ## 4. Nom de l'exposition ou de l'événement :
 
-Le nom de l'évènement est la 5er Biennale internationale d'art numérique (BIAN), qui a été organisé ELEKTA et le nom de l'expo Metamorphis 
-
-
-
+### Le nom de l'évènement est la 5er Biennale internationale d'art numérique (BIAN), qui a été organisé ELEKTA et le nom de l'expo Metamorphis 
 
 
 ## 5. Lieu de mise en exposition :
 
-L'Arsenal contomporain 
-
-
-
+### L'Arsenal contomporain 
 
 
 ## 6. Date de votre visite : 
 
-9 février 2021
+### 9 février 2021
+
+
+# Description générale :
 
 
 
