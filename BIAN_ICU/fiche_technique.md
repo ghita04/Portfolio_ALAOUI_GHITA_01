@@ -144,7 +144,7 @@ Aussi, sur les rebords du mur, les fils sont attachés ensemble à l'aide d'un r
 
 ## 11. Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
  
-J'ai énormément aimé mon expérience avec l'oeuvre. Certes, il n'y avait aucunes actions à faire ni aucunes intéractions, mais voir l'oeuvre en tant que tel s'est démarqué à mes yeux que ce soit au niveau du jeu de lumière, le réalisme de la mise en scène ou la complexité apparente de sa réalisation. 
+J'ai énormément aimé mon expérience avec l'oeuvre. Certes, il n'y avait aucunes actions à faire ni aucunes intéractions, mais voir l'oeuvre en tant que telle s'est démarqué à mes yeux que ce soit au niveau du jeu de lumière, le réalisme de la mise en scène ou la complexité apparente de sa réalisation. 
 
 ❤️ Ce qui vous a plu, vous a donné des idées et justifications
  
