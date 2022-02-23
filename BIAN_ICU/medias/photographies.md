@@ -42,6 +42,11 @@
 
 ![fils_04](https://user-images.githubusercontent.com/93718412/155252374-c1a30445-c120-4f42-8f35-9eb241ea2923.jpeg)
 
+2. Câble de soutien, herses et crochet : 
+
+
+![herse_projecteur](https://user-images.githubusercontent.com/93718412/155253078-5d866824-3b49-4483-b610-00706e95744e.jpeg)
+
 
 ## Photographie du cartel ou du panneau explicatif : 
 
