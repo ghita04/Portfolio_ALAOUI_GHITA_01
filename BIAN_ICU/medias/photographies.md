@@ -19,7 +19,22 @@
 
 ![robot_ensemble_04](https://user-images.githubusercontent.com/93718412/155252199-783aaf19-c9c8-45b9-84cb-839180a2e859.jpeg)
 
-3. Fils : 
+3. Projecteur : 
+
+![projecteur](https://user-images.githubusercontent.com/93718412/155252866-c939a4ba-0206-41d0-92a9-b6bad4987bfd.jpeg)
+
+4. Boite d'alimentation : 
+
+![boite_alimentaion](https://user-images.githubusercontent.com/93718412/155252899-9aedf704-553b-46c0-b0ec-3549ebf710b5.jpeg)
+
+5. Cadre lumineux (LED) : 
+
+![robot_ensemble_02](https://user-images.githubusercontent.com/93718412/155252927-5d03b348-aa44-446a-a619-58370657c2de.jpeg)
+
+
+## Photographies des éléments nécessaires à sa mise en espace :
+
+1. Fils : 
 
 ![fils_01](https://user-images.githubusercontent.com/93718412/155252321-96ed668c-1c47-44a1-bd95-fd434cd90e1c.jpeg)
 
@@ -27,8 +42,6 @@
 
 ![fils_04](https://user-images.githubusercontent.com/93718412/155252374-c1a30445-c120-4f42-8f35-9eb241ea2923.jpeg)
 
-
-## Photographies des éléments nécessaires à sa mise en espace :
 
 ## Photographie du cartel ou du panneau explicatif : 
 
