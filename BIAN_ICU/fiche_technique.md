@@ -78,10 +78,7 @@ Et finalement, le tube respiratoire :
 
 https://user-images.githubusercontent.com/93718412/155246080-ffc539f7-e402-4ff4-8c06-f525a5f0c900.mov
 
-Parlons plus précisément des fils et du système de lumière maintenant. Comme mentionné précédemment, l'oeuvre est soutenu par un cadre lumieux (LED) qui lui-même est soutenu par une herse. En gros, ça donne ça : 
-
-![robot_ensemble](https://user-images.githubusercontent.com/93718412/155246697-3bce7c67-3dab-45a5-8911-69fe4bc09a36.jpeg)
-
+Parlons plus précisément des fils et du système de lumière maintenant. Comme mentionné précédemment, l'oeuvre est soutenu par un cadre lumieux (LED) qui lui-même est soutenu par une herse. En gros, ça donne ça :
 
 ![robot_ensemble_02](https://user-images.githubusercontent.com/93718412/155248073-48c91422-b088-4415-92f7-b262dcdc5376.jpeg)
 
