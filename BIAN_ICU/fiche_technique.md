@@ -142,11 +142,17 @@ Aussi, sur les rebords du mur, les fils sont attachés ensemble à l'aide d'un r
 
 ## 11. Expérience vécue :
 
- a) Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+ a) Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc. 
+ 
+J'ai énormément aimé mon expérience avec l'oeuvre. Certes, il n'y avait aucunes actions à faire ni aucunes intéractions, mais voir l'oeuvre en tant que tel s'est démarqué à mes yeux que ce soit au niveau du jeu de lumière, le réalisme de la mise en scène ou la complexité apparente de sa réalisation. 
 
  b) ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+ 
+Ce qui m'as plu, c'est le côté <<réaliste>> de l'oeuvre. Je n'avais encore jamais vu des robots qui simulaient des humains sans pour autant leur avoir donné un aspect humanoïde. La plupart des robots que j'ai pu voir avaient tous au minimum un visage qui se rapprochaient d'un humain. Mais dans ce cas-ci, il n'y avait pas ça et on pouvait quand même clairement comprendre qu'est-ce qui était véhiculé. 
 
  c) 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ 
+ Le seul aspect négatif de l'oeuvre c'est la redondance. Sans aucune intéractions avec l'oeuvre, il devrait y avoir un minimum d'effet de surprise. Mais dans ce cas-ci, l'oeuvre bougeait toujours de la même manière et c'était les mêmes couleurs qui étaient projetés en permanence (une alternance entre du vert, bleu et rouge). Changer la <<routine>> de l'oeuvre aurait pu apporter un côté intéressant. 
  
  
  
