@@ -84,7 +84,7 @@ Lorsqu'on se déplace vers le fond gauche de la salle, on retrouve une petite bo
 
 ![boite_alimentaion](https://user-images.githubusercontent.com/93718412/155246415-cb0c25e5-0fd5-4d63-ab54-1f0abb839ed9.jpeg)
 
-De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise 
+De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise  
 
 Pour ce qui est des fils, ils sont cachés par une cache-fils adhésif noir comme ci dessous : 
 
