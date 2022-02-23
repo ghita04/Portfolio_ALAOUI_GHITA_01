@@ -61,7 +61,14 @@ https://user-images.githubusercontent.com/93718412/155230829-68154b89-5fda-4570-
 
 Voilà le panneau de contrôle de plus près : 
 
+L'avant : 
+
 ![panneau_de_controle](https://user-images.githubusercontent.com/93718412/155231341-a38d03fc-87f9-4ea0-b894-05bc3f48d2ba.jpeg)
+
+L'arrière : 
+
+![panneau_de_controle_02](https://user-images.githubusercontent.com/93718412/155247797-28a21a34-8276-4942-ab9d-e0a7f4f56d06.jpeg)
+
 
 Le panneau des battements de coeur :
 
@@ -84,12 +91,17 @@ Lorsqu'on se déplace vers le fond gauche de la salle, on retrouve une petite bo
 
 ![boite_alimentaion](https://user-images.githubusercontent.com/93718412/155246415-cb0c25e5-0fd5-4d63-ab54-1f0abb839ed9.jpeg)
 
-De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise  
+De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise ainsi qu'une série de fils qui se retrouvent cachés par une cache-fils adhésif noir comme ci dessous : 
 
-Pour ce qui est des fils, ils sont cachés par une cache-fils adhésif noir comme ci dessous : 
+![fils_01](https://user-images.githubusercontent.com/93718412/155247310-1fc8f1d8-4d01-4bfb-8167-1d2bdfdf495f.jpeg)
 
+Ce même fil continue jusqu'à monter au mur et être connecté à un branchement qui se situe sur la herse : 
 
+https://user-images.githubusercontent.com/93718412/155247498-c0b6bec0-c392-42a9-a29d-d9402461fc86.mov
 
+Aussi, sur les rebords du mur, les fils sont attachés ensemble à l'aide d'un ruban adhésif noir comme ça : 
+
+![fils_03](https://user-images.githubusercontent.com/93718412/155247826-785b462f-a515-40bb-880b-1f9eb9dcaab3.jpeg)
 
 
 ## 9. Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
