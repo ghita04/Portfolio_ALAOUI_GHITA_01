@@ -83,6 +83,9 @@ Parlons plus précisément des fils et du système de lumière maintenant. Comme
 ![robot_ensemble](https://user-images.githubusercontent.com/93718412/155246697-3bce7c67-3dab-45a5-8911-69fe4bc09a36.jpeg)
 
 
+![robot_ensemble_02](https://user-images.githubusercontent.com/93718412/155248073-48c91422-b088-4415-92f7-b262dcdc5376.jpeg)
+
+
 Sur la herse se trouve également un projecteur de lumière qui illumine l'oeuvre de diverses couleurs (rouge, vert, etc.). Comme ceci : 
 
 ![herse_projecteur](https://user-images.githubusercontent.com/93718412/155246974-471a7f6d-6796-4b0c-8011-0ce7cf5be2d2.jpeg)
