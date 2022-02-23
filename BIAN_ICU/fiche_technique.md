@@ -59,6 +59,7 @@ https://user-images.githubusercontent.com/93718412/155230797-d7f40b61-b2f3-4130-
 
 https://user-images.githubusercontent.com/93718412/155230829-68154b89-5fda-4570-9abe-32c1bb4a0c9b.mov
 
+
 Voilà le panneau de contrôle de plus près : 
 
 L'avant : 
@@ -74,9 +75,11 @@ Le panneau des battements de coeur :
 
 ![panneau_robot](https://user-images.githubusercontent.com/93718412/155231066-7562a0cd-46af-481a-b70f-e4e5a604133d.jpeg)
 
+
 Et finalement, le tube respiratoire : 
 
 https://user-images.githubusercontent.com/93718412/155246080-ffc539f7-e402-4ff4-8c06-f525a5f0c900.mov
+
 
 Parlons plus précisément des fils et du système de lumière maintenant. Comme mentionné précédemment, l'oeuvre est soutenu par un cadre lumieux (LED) qui lui-même est soutenu par une herse. En gros, ça donne ça :
 
@@ -87,17 +90,26 @@ Sur la herse se trouve également un projecteur de lumière qui illumine l'oeuvr
 
 ![herse_projecteur](https://user-images.githubusercontent.com/93718412/155246974-471a7f6d-6796-4b0c-8011-0ce7cf5be2d2.jpeg)
 
+
+Les fils des projecteurs sont également reliés au cadre lumineux comme ceci : 
+
+![fils_04](https://user-images.githubusercontent.com/93718412/155249177-219f422a-c276-4b96-b57e-d9ad15624871.jpeg)
+
+
 Lorsqu'on se déplace vers le fond gauche de la salle, on retrouve une petite boite d'alimentation qui ressemble à ceci : 
 
 ![boite_alimentaion](https://user-images.githubusercontent.com/93718412/155246415-cb0c25e5-0fd5-4d63-ab54-1f0abb839ed9.jpeg)
+
 
 De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise ainsi qu'une série de fils qui se retrouvent cachés par une cache-fils adhésif noir comme ci dessous : 
 
 ![fils_01](https://user-images.githubusercontent.com/93718412/155247310-1fc8f1d8-4d01-4bfb-8167-1d2bdfdf495f.jpeg)
 
+
 Ce même fil continue jusqu'à monter au mur et être connecté à un branchement qui se situe sur la herse : 
 
 https://user-images.githubusercontent.com/93718412/155247498-c0b6bec0-c392-42a9-a29d-d9402461fc86.mov
+
 
 Aussi, sur les rebords du mur, les fils sont attachés ensemble à l'aide d'un ruban adhésif noir comme ça : 
 
