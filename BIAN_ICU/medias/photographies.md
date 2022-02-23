@@ -11,6 +11,9 @@
 
 ![panneau_de_controle_02](https://user-images.githubusercontent.com/93718412/155252021-5e2d28a5-78b5-4ee1-9d41-d455f1eb26ce.jpeg)
 
+![panneau_de_controle_03](https://user-images.githubusercontent.com/93718412/155252538-c757e0b2-334c-4354-a309-3199bd119a02.jpeg)
+
+
 2. Fils, tube à air comprimé et tube respiratoire :
 
 
