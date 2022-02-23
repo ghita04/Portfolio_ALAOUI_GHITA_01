@@ -49,7 +49,8 @@ L'oeuvre se trouve dans une grande pièce ouverte avec trois murs noirs. Les qua
 
 https://user-images.githubusercontent.com/93718412/155226832-786a8a6c-126e-45b6-9024-7703d4e557b0.mov
 
-Pour ce qui est des robots, leur fonctionnement est assez complexe. Les robots sont composés de barres en métal qui sont reliées à des tubes d'air comprimé qui permettent aux membres du robot de se déplacer. Ces tubes sont connectés à une multitude de fils qui sont ensuite connectés à une <<boite de contrôle>> remplie de fils. Au dessus de cette boite se trouve un écran similaire à celui qu'on retrouve dans les vrais hopitaux qui simulent le batement de coeur du robot. 
+Pour ce qui est des robots, leur fonctionnement est assez complexe. Les robots sont composés de barres en métal qui sont reliées à des tubes d'air comprimé qui permettent aux membres du robot de se déplacer. Ces tubes sont connectés à une multitude de fils qui sont ensuite connectés à une <<boite de contrôle>> remplie de fils. Au dessus de cette boite se trouve un écran similaire à celui qu'on retrouve dans les vrais hopitaux qui simulent le batement de coeur du robot. De plus, il y a également un tube qui simule un vrai tube respiratoire que l'on retrouve dans les hôpitaux qui est relié à cette boite. 
+
 
 Voilà comment fonctionne les robots : 
 
@@ -60,14 +61,32 @@ https://user-images.githubusercontent.com/93718412/155230829-68154b89-5fda-4570-
 
 Voilà le panneau de contrôle de plus près : 
 
-
 ![panneau_de_controle](https://user-images.githubusercontent.com/93718412/155231341-a38d03fc-87f9-4ea0-b894-05bc3f48d2ba.jpeg)
 
-Et finalement, le panneau des battements de coeur :
+Le panneau des battements de coeur :
 
 ![panneau_robot](https://user-images.githubusercontent.com/93718412/155231066-7562a0cd-46af-481a-b70f-e4e5a604133d.jpeg)
 
+Et finalement, le tube respiratoire : 
 
+https://user-images.githubusercontent.com/93718412/155246080-ffc539f7-e402-4ff4-8c06-f525a5f0c900.mov
+
+Parlons plus précisément des fils et du système de lumière maintenant. Comme mentionné précédemment, l'oeuvre est soutenu par un cadre lumieux (LED) qui lui-même est soutenu par une herse. En gros, ça donne ça : 
+
+![robot_ensemble](https://user-images.githubusercontent.com/93718412/155246697-3bce7c67-3dab-45a5-8911-69fe4bc09a36.jpeg)
+
+
+Sur la herse se trouve également un projecteur de lumière qui illumine l'oeuvre de diverses couleurs (rouge, vert, etc.). Comme ceci : 
+
+![herse_projecteur](https://user-images.githubusercontent.com/93718412/155246974-471a7f6d-6796-4b0c-8011-0ce7cf5be2d2.jpeg)
+
+Lorsqu'on se déplace vers le fond gauche de la salle, on retrouve une petite boite d'alimentation qui ressemble à ceci : 
+
+![boite_alimentaion](https://user-images.githubusercontent.com/93718412/155246415-cb0c25e5-0fd5-4d63-ab54-1f0abb839ed9.jpeg)
+
+De plus, à la base de la boite de contrôle, il se trouve également une prise multiprise 
+
+Pour ce qui est des fils, ils sont cachés par une cache-fils adhésif noir comme ci dessous : 
 
 
 
