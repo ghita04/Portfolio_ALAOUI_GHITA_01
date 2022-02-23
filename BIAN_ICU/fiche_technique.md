@@ -106,11 +106,26 @@ Aussi, sur les rebords du mur, les fils sont attachés ensemble à l'aide d'un r
 
 ## 9. Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
 
+1. Projecteurs lumineux 
 
+2. Cadre lumineux (LED) 
+
+3. Panneau de contrôle 
+
+4. Boite d'alimentation
 
 
 ## 10. Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...) :
 
+1. Crochets 
+
+2. Câble de soutien 
+
+3. Herse 
+
+4. Cache-fils 
+
+5. Prise multiprise 
 
 
 ## 11. Expérience vécue :
