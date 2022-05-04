@@ -15,7 +15,7 @@ Roseaux
 
 ### 4. Nom de l'exposition ou de l'événement :
 
-L'exposition s'appelle *Luminothérapie* et a été fait dans le cadre de l'évènement *Montréal en lumière*
+L'exposition s'appelle *Luminothérapie* (la 23e édi et a été fait dans le cadre de l'évènement *Montréal en lumière*
 
 ### 5. Lieu de mise en exposition :
 
