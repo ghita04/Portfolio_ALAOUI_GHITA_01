@@ -2,8 +2,6 @@
 
 Roseaux
 
-
-
 ### 2. Nom de l'artiste ou de la firme :
 
 - Direction artistique et création : ITOMN 
@@ -11,16 +9,13 @@ Roseaux
 - Conception de programmation intéractive : Serge Maheu 
 - Producteur de tournée : CREOS
 
-
-
-
-
 ### 3. Année de réalisation :
 
-
-
+2021-2022
 
 ### 4. Nom de l'exposition ou de l'événement :
+
+L'exposition s'appelle *Luminothérapie* et a été fait dans le cadre de l'évènement *Montréal en lumière*
 
 
 
