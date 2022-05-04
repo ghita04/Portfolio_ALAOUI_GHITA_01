@@ -33,6 +33,8 @@ Quartier des spectacles à Montréal
 
 Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans le but d'illuminer la tige d'une couleur unique. À la parade visuelle s'ajoute une trame sonore vibrante et parfaitement synchroniséee aux flux lumineux, offrant une expérience sensorielle énergisante. En mode veille, de légères pulsations lumineuses et sonores lancent un appel à l'activation tout en animant l'espace de façon poétique."
 
+(Ce texte est tiré du cartel d'exposition présent à côté de l'oeuvre)
+
 
 
 
