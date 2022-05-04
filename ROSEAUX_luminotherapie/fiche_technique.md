@@ -36,7 +36,7 @@ Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans 
 (Ce texte est tiré du cartel d'exposition présent à côté de l'oeuvre)
 
 
-
+![cartel_exterieur_roseaux](medias/photographies/cartel_exterieur_roseaux.jpg)
 
 
 
