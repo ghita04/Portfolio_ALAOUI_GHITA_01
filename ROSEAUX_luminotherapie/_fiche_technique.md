@@ -6,10 +6,10 @@ Roseaux
 
 ### 2. Nom de l'artiste ou de la firme :
 
-o Direction artistique et création : ITOMN 
-o Conception sonore et lumière : UDO DESIGN et Serge Maheu 
-o Conception de programmation intéractive : Serge Maheu 
-o Producteur de tournée : CREOS
+- Direction artistique et création : ITOMN 
+- Conception sonore et lumière : UDO DESIGN et Serge Maheu 
+- Conception de programmation intéractive : Serge Maheu 
+- Producteur de tournée : CREOS
 
 
 
