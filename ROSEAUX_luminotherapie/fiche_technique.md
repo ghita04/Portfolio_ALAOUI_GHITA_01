@@ -42,8 +42,7 @@ Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans 
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
-
-
+L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l'extérieur. Les différentes tiges étaient situées à distances équivalentes l'une de l'autre tout en se laissant assez d'espace pour permettre aux différents groupes d'utiliser chacun une tige de l'exposition. Elle est entourée de bâtiments divers et se trouve en plein centre de la rue pavée qui sépare les bâtiments de gauche de ceux de droite.
 
 
 ### 9. Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
