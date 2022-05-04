@@ -1,3 +1,3 @@
 # PHOTOGRAPHIES
 
-Dans ce dossier vous trouverez l'ensemble des photographies prises de l'oeuvre *Roseaux*.
+Dans ce dossier, vous trouverez l'ensemble des photographies prises de l'oeuvre *Roseaux*.
