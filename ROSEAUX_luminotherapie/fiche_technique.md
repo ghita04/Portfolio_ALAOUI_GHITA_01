@@ -15,7 +15,7 @@
 
 ### 4. Nom de l'exposition ou de l'événement :
 
-L'exposition s'appelle *Luminothérapie* (la 23e édi et a été fait dans le cadre de l'évènement *Montréal en lumière*
+L'exposition s'appelle *Luminothérapie* (la 23e édition et a été fait dans le cadre de l'évènement *Montréal en lumière*
 
 ### 5. Lieu de mise en exposition :
 
@@ -36,7 +36,7 @@ Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans 
 (Ce texte est tiré du cartel d'exposition présent à côté de l'oeuvre)
 
 
-![cartel_exterieur_roseaux](medias/photographies/cartel_exterieur_roseaux.jpg)
+![capture_ecran_cartel_roseaux](medias/photographies/capture_ecran_cartel_roseaux.png)
 
 
 
