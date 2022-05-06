@@ -31,9 +31,10 @@ Le grand studio (C-1712) au collège Montmorency.
 
 (Cette description provient du site TIM dédié au projet de *Chère Sasha*)
 
-### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
+### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif : 
 
-L'oeuvre 
+(mettre la photo de l'espace)
+L'oeuvre est constitué d'un lit divisé en deux parties : un côté sombre et un côté clair. L'espace de l'exposition est aussi divisé de la même manière que le lit. Le 
 
 
 
