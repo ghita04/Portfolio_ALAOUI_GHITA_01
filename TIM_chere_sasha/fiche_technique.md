@@ -29,7 +29,7 @@ Le grand studio et le petit studio (C-1712) au collège Montmorency.
 
 "Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne."
 
-(Cette description provient du site TIM dédié au projet de *Chère Sasha*.)
+(Cette description provient du site TIM dédié au projet de *Chère Sasha*)
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
