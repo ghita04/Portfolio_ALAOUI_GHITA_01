@@ -44,7 +44,13 @@ L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l
 
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
-
+- Bâton lumineux 
+- Socle lumineux 
+- Tiges de métal 
+- Fils 
+- Cache-fils 
+- Tapis en caoutchouc 
+- Haut-parleur intégré à la base 
 
 ### 11. Expérience vécue :
 
