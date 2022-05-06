@@ -15,7 +15,7 @@
 
 ### 4. Nom de l'exposition ou de l'événement :
 
-L'exposition s'appelle *Luminothérapie* (la 12e édition et a été fait dans le cadre de l'évènement *Montréal en lumière*
+L'exposition s'appelle *Luminothérapie*. D'ailleurs, c'est la 12e édition qui a été présentée dans le cadre de l'évènement *Montréal en lumière*
 
 ### 5. Lieu de mise en exposition :
 
