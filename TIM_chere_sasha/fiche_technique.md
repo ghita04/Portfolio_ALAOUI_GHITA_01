@@ -19,11 +19,11 @@ L'oeuvre a été présentée dans le cadre de l'évènement *Moebius* au collèg
 
 ### 5. Lieu de mise en exposition :
 
-Le grand studio et le petit studio (C-1712) au collège Montmorency.
+Le grand studio (C-1712) au collège Montmorency.
 
 ### 6. Date de votre visite : 
 
- 
+ 23 mars 2022
 
 ### 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
 
@@ -33,7 +33,7 @@ Le grand studio et le petit studio (C-1712) au collège Montmorency.
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
-
+L'oeuvre 
 
 
 
