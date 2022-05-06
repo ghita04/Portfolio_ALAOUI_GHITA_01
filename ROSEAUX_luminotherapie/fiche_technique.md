@@ -37,7 +37,13 @@ Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans 
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
-L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l'extérieur. Les différentes tiges étaient situées à distances équivalentes l'une de l'autre tout en se laissant assez d'espace pour permettre aux différents groupes d'utiliser chacun une tige de l'exposition. Elle est entourée de bâtiments divers et se trouve en plein centre de la rue pavée qui sépare les bâtiments de gauche de ceux de droite. Pour ce qui est du dispositif, son physique est assez simple. Il s'agit d'une tige lumieuse qui s'élève vers le ciel avec un socle circulaire noir et un dessus aussi lumineux que la tige elle-même. Lorsque l'utilisateur frappe les petits boutons présents sur la base, une musique commence et s'accélère au fur et à mesure que les pas s'accélèrent aussi. Plus l'utilisateur frappent rapidement du pied, plus une lumière qui correspond à celle du côté de l'utilisateur montera dans la tige jusqu'à la recouvrir entièrement. Le gagnant est celui qui arrive à faire dominer sa couleur dans la tige.
+L'oeuvre *Roseaux* se trouve dans un terrain assez large et se déroule à l'extérieur dans le cadre de l'évènement Montréal en lumière. Voilà un petit schéma du lieu pour situer un peu plus sa position
+
+
+
+
+
+Les différentes tiges étaient situées à distances équivalentes l'une de l'autre tout en se laissant assez d'espace pour permettre aux différents groupes d'utiliser chacun une tige de l'exposition. Elle est entourée de bâtiments divers et se trouve en plein centre de la rue pavée qui sépare les bâtiments de gauche de ceux de droite. Pour ce qui est du dispositif, son physique est assez simple. Il s'agit d'une tige lumieuse qui s'élève vers le ciel avec un socle circulaire noir et un dessus aussi lumineux que la tige elle-même. Lorsque l'utilisateur frappe les petits boutons présents sur la base, une musique commence et s'accélère au fur et à mesure que les pas s'accélèrent aussi. Plus l'utilisateur frappent rapidement du pied, plus une lumière qui correspond à celle du côté de l'utilisateur montera dans la tige jusqu'à la recouvrir entièrement. Le gagnant est celui qui arrive à faire dominer sa couleur dans la tige.
 
 (Inserer video avec mat et cam)
 (Inserer photo de l'espace)
