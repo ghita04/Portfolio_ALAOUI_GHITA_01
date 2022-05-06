@@ -42,13 +42,7 @@ L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l
 (Inserer photo)
 
 
-### 9. Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...) :
-
-
-
-
-
-### 10. Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...) :
+### 9. Liste des composantes 
 
 
 
