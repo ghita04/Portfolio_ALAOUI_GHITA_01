@@ -54,12 +54,12 @@ L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l
 - Haut-parleur intégré à la base 
 
 ### 11. Expérience vécue :
+ 
+Mon expérience de l'oeuvre a assez été mitigée au début. En effet, je ne comprenais pas vraiment comment utiliser le dispositif et ce n'est qu'au bout de quelques essais que j'ai fini par comprendre comment ça marchait. Après avoir réellement compris comment l'utiliser, l'expérience était plutôt amusante et j'ai eu beaucoup de plaisir à rentrer en compétition avec mes deux amies qui étaient présentes avec moi. Chacune voulait tenter de gagner et ça occasionnait beaucoup de fous rires. En bref, j'ai vraiment adoré essayer l'oeuvre *Roseaux* et encore plus avec mes amies.
 
- a) Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Ce qui m'as plu dans cette oeuvre, c'était surtout son aspect physique qui était assez moderne et qui s'accordait bien avec l'ambiance dans lequel elle était présentée. Lorsque je pense à Montréal, je pense automatiquement à centre-ville et beaucoup de lumière un peu partout autour de moi et *Roseaux* représentait un peu ça à mon avis. *Roseaux* était pour moi des tiges de lumières qui illuminaient la place comme des édifices au centre-ville de Montréal. En bref, leur concept physique s'accordait bien avec leur lieu d'exposition et c'est une caractéristique que j'aimerais garder en tête à l'avenir.
 
- b) ❤️ Ce qui vous a plu, vous a donné des idées et justifications
-
- c) 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Pour ce qui est du négatif, il n'y a pas grand chose que je n'ai pas aimé sur cette oeuvre. La seule chose que je pourrais notifier serait son entretien mal fait étant donné que la plupart des bases sont sales, mais ce genre de chose est prévisible lorsqu'on parle d'oeuvre participative et encore plus celles à l'extérieur. À mon sens, je suis quelqu'un d'assez maniaque et la propreté est quelque chose d'impoprtant et j'aurais donné comme instruction d'au moins nettoyer les contours du socle. Sinon, je ne trouve pas d'autres côtés négatifs à l'oeuvre que je n'aimerais pas reproduire dans mes prochaines réalisations.
  
  ### 12. Références :
  
