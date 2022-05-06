@@ -42,7 +42,7 @@ L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l
 (Inserer photo)
 
 
-### 9. Liste des composantes 
+### 9. Liste des composantes qui constituent l'oeuvre :
 
 
 
