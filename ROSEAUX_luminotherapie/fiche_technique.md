@@ -61,8 +61,7 @@ L'exposition *Roseaux* se trouve dans un terrain assez large et se déroule à l
 
  c) 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
  
- 
- 
- 
-
  ### 12. Références :
+ 
+- https://sergemaheu.com/?portfolio=roseaux
+- https://www.montrealenlumiere.com/SiteExterieur/OeuvresLumineuses
