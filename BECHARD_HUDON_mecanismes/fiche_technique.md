@@ -18,11 +18,11 @@ L'oeuvre était présentée dans le cadre de l'exposition *Béchard Hudon*.
 
 L'oeuvre a été mise en exposition dans la salle Alfred-Pellan.
 
-### 6. Date de votre visite : 
+### 6. Date de ma visite : 
 
 16 mars 2022
 
-### 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+### 7. Description de l'oeuvre ou du dispositif multimédia :
 
 "S'activant via des détecteurs de mouvement, les sculptures murales qui composent la série *Mécanismes de dessaisissement* tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique. Dessinées une à une à moyen d'un logiciel, les fines rayures qui caractérisent les surfaces en action génèrent des champs de profondeur mouvants qui complexifient l'expérience visuelle dans le temps. Par ailleurs, les dispositifs électromécaniques qui alimentent ces structures sont laissés visible de façon à déjouer la pureté formelle de l'ensemble, entre autres à travers les lignes plus aléatoires que dessinent les fils électriques."
 
@@ -30,7 +30,7 @@ L'oeuvre a été mise en exposition dans la salle Alfred-Pellan.
 
 ![cartel_expo_bechard_hudon](medias/photographies/cartel_expo_bechard_hudon.jpg)
 
-### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
+### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif :
 
 L'oeuvre prend la largeur d'un mur au complet et est composé de trois dispositifs : un en forme de triangle, un en forme de rond et l'autre en forme de carré. À chaque dispositif, le concept se répètent. Autour de chaque oeuvre se trouve une forme géométrique dessiné en grand et en noir avec la forme qui correspond à l'oeuvre en question. Ces formes tracées au mur donne un aspect de grandeur à l’œuvre et donne donc plus de volume et plus de présence à l'oeuvre dans la salle. De plus, ça ajoute une certaine profondeur. L'artiste trouvait ça important d’avoir plusieurs plans dans ces œuvres et c'est donc pour ça que ces formes sont tracées au mur. Pour ce qui est du fonctionnement de l'oeuvre, c'est assez simple. L'installation constituée de formes géométriques n'est pas collé au mur grâce aux barres de métal qui la sépare de celui-ci. C'est deux mêmes formes géométriques de couleur différentes et faites d'acrylique qui tournent sur un fond blanc dans une durée de 35min à une heure à l'aide de petites tiges qui sont reliées à une prise d'alimentation. D'ailleurs, le fait que les fils soient exposés est loin d'être le fruit du hasard. Ils permettent de montrer qu’il y a une mécanique de mouvement et ça rajoute quelque chose au concept de l'oeuvre. Au bout d'un moment, les deux formes vont finir par se croiser ce qui créé un autre mouvement en plein centre.
 
@@ -69,4 +69,7 @@ Cependant, je n'ai pas réellement aimé le fait que les fils soient apparents o
  ### 12. Références :
  
  - https://bechardhudon.com/
+
+
+### 13. Croquis :
  
