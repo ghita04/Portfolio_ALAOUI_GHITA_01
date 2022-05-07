@@ -1,7 +1,6 @@
 ### Introduction
 
 - Présentation rapide de pourquoi j'ai choisis l'oeuvre 
-- Mon expérience 
 
 ### Développement 
 
@@ -11,4 +10,4 @@
 
 ### Conclusion 
 
-- 
+- Mon expérience : les bons et les mauvais côtés
