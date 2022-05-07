@@ -48,12 +48,6 @@ Les différentes tiges étaient situées à distances équivalentes l'une de l'a
 
 ![espace_installation_roseaux](medias/photographies/espace_installation_roseaux.jpg)
 
-Et voilà comment elle fonctionne : 
-
-![fonctionnement_roseaux](medias/photographies/fonctionnement_roseaux.mov)
-
-(Inserer video avec mat et cam)
-
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
 - Bâton lumineux 
