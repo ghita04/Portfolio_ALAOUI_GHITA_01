@@ -31,7 +31,7 @@ L'oeuvre a été mise en exposition dans la salle Alfred-Pellan.
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
 
-L'oeuvre prend la largeur d'un mur au complet et est composé de trois dispositifs : un en forme de triangle, un en forme de rond et l'autre en forme de carré. À chaque dispositif, le concept se répètent. Autour de chaque oeuvre se trouve une forme géométrique dessiné en grand et en noir avec la forme qui correspond à l'oeuvre en question. Ces formes tracées au mur donne un aspect de grandeur à l’œuvre et donne donc plus de volume et plus de présence à l'oeuvre dans la salle. De plus, ça ajoute une certaine profondeur. L'artiste trouvait ça important d’avoir plusieurs plans dans ces œuvres et c'est donc pour ça que ces formes sont tracées au mur. Pour ce qui est du fonctionnement de l'oeuvre, c'est assez simple. C'est deux mêmes formes géométriques de couleur différentes et faites d'acrylique qui tournent dans une durée de 35min à une heure à l'aide de petites tiges qui sont reliées à une prise d'alimentation. D'ailleurs, le fait que les fils soient exposés est loin d'être le fruit du hasard. Ils permettent de montrer qu’il y a une mécanique de mouvement et ça rajoute quelque chose au concept de l'oeuvre. Au bout d'un moment, les deux formes vont finir par se croiser ce qui créé un autre mouvement en plein centre comme ceci : 
+L'oeuvre prend la largeur d'un mur au complet et est composé de trois dispositifs : un en forme de triangle, un en forme de rond et l'autre en forme de carré. À chaque dispositif, le concept se répètent. Autour de chaque oeuvre se trouve une forme géométrique dessiné en grand et en noir avec la forme qui correspond à l'oeuvre en question. Ces formes tracées au mur donne un aspect de grandeur à l’œuvre et donne donc plus de volume et plus de présence à l'oeuvre dans la salle. De plus, ça ajoute une certaine profondeur. L'artiste trouvait ça important d’avoir plusieurs plans dans ces œuvres et c'est donc pour ça que ces formes sont tracées au mur. Pour ce qui est du fonctionnement de l'oeuvre, c'est assez simple. L'installation constituée de formes géométriques n'est pas collé au mur grâce aux barres de métal qui la sépare de celui-ci. C'est deux mêmes formes géométriques de couleur différentes et faites d'acrylique qui tournent sur un fond blanc dans une durée de 35min à une heure à l'aide de petites tiges qui sont reliées à une prise d'alimentation. D'ailleurs, le fait que les fils soient exposés est loin d'être le fruit du hasard. Ils permettent de montrer qu’il y a une mécanique de mouvement et ça rajoute quelque chose au concept de l'oeuvre. Au bout d'un moment, les deux formes vont finir par se croiser ce qui créé un autre mouvement en plein centre comme ceci : 
 
 (Ajouter vidéo)
 
@@ -43,6 +43,13 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
+- Projecteurs de lumière 
+- Gélatine bleu 
+- Fils d'alimentation
+- Formes d'acrylique 
+- Tiges mécaniques
+- Détecteurs de mouvement 
+- Barres de métal pour accrocher l'oeuvre 
 
 ### 11. Expérience vécue :
  
