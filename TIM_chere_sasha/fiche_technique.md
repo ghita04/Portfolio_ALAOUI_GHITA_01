@@ -32,9 +32,13 @@ Le grand studio (C-1712) au collège Montmorency.
 (Cette description provient du site TIM dédié au projet de *Chère Sasha*)
 
 ### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif : 
-(mettre la photo de l'espace)
+
+Avant de vous expliquer la mise en place de l'oeuvre *Chère Sasha*, voilà un petit schéma fourni par l'équipe afin de visualiser un peu mieux l'espace : 
+
 
 L'installation est composée d’une pièce divisée en deux dont le lit qui se présente comme étant l'objet central de celle-ci. La partie illuminée de la pièce représente la vie adulte de Sasha tandis que, la partie sombre sa vie d'adolescente. Chaque espace contient des objets qui correspondent à l'ambiance de l'époque spécifiée comme des journaux intimes écrits à la main, des manuels ou encore des téléphones. De plus, sur le côté de la chambre qui correspond à l'adolescence de Sasha, il y avait également des posters qui ont été dessinés par les membres de l'équipe elle-même. Au centre de la pièce, un projecteur était accroché au plafond afin d'afficher des vidéos en lien avec l'exposition ainsi que les nombreux messages d'encouragement laissés à Sasha par les utilisateurs après leur visite. D'ailleurs, l'ordinateur servant à cette usage se trouvait dans le coin au fond à droite. Durant toute l'expérience, une petite musique accompagnée de certaines paroles de Sasha était jouée comme trame de fond grâce aux quatre haut-parleurs placés sur les murs. Il y en avait deux du côté gauche ainsi que deux du côté droit. Pour la lumière, l'équipe a utilisé des guirlandes de lumière accrochées du côté droit de l'installation ainsi que deux types de projecteurs situés dans les herses en plus des petites lampes de chevet. 
+
+(mettre la photo de l'espace)
 
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
