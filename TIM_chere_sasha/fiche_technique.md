@@ -64,12 +64,20 @@ Pour être honnête, je ne trouve aucun point négatif à cette oeuvre. L'organi
 
 1. *Chère Sasha* 
 
+Comme mentionné précédemment, j'ai absolument adoré cette oeuvre pour son côté créatif et je trouve que tous les éléments qui y étaient présent ajoutent une touche spéciale à l'expérience. De plus, aborder le thème de la sexualité de cette manière était très approprié et faisait passer le message au public de manière très clair.
+
 2. *L'horloge de l'apocalypse*
+
+J'ai adoré les dessins qui allaient à chaque heure de l'horologe et les musiques qui les accompagnaient s'accordaient parfaitement. C'est un concept simple, mais très efficace qui a très bien marché et qui capte facilement l'attention du public avec le constrate marquant entre les différentes époques présentées. 
 
 3. *Chronaufrage* 
 
+J'ai adoré cette oeuvre principalement pour son côté visuel. Les dessins étaient très bien faits et captaient l'oeil direct en rentrant dans le grand studio. De plus, le petit ajout de la fille qui accélère quand le public s'en approche rend l'exposition encore plus intéressante.
+
 4. *Jeu temporel* 
+
+Le concept de base du jeu m'avait intrigué et c'était un de mes premiers choix à la base. Cependant, en y jouant, j'ai été assez déçue de voir que l'animateur ne *glitchait* pas autant qu'un des membres de l'équipe m'avait décrit lorsqu'il m'expliquait leur idée de projet. À part ça, les questions du jeu étaient bien.
 
 5. *3 minutes* et *Distorsion collective*
 
-
+Pour ces deux-là, je n'ai malheureusement pas d'avis après les avoir expérimenté vu que je n'y ai pas eu accès. Pour le premier jeu VR, *3 minutes*, lorsque nous avons voulu l'essayer, nous avons remarqué que l'équipe avait de la difficulté à faire fonctionner leur casque VR, donc on a tout simplement pas eu le temps de l'essayer après qu'il ait été réparé beaucoup plus tard. Pour ce qui est de *Distorsion collective*, il y avait à chaque fois quelqu'un qui utilisait le casque VR, donc je n'ai pas eu la chance de l'essayer non plus.
