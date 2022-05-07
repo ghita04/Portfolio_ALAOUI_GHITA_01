@@ -52,6 +52,12 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 - Barres de métal pour accrocher l'oeuvre 
 
 ### 11. Expérience vécue :
+
+Mon expérience de l'oeuvre était assez banale étant donné que je ne pouvais pas réellement intéragir avec l'oeuvre. La seule chose qui m'as réeellement fait vivre quelque chose était le moment où les deux formes se croisaient et l'illusion d'optique se mettait à apparaitre. C'était tellement apaisant à regarder, encore plus avec le son qui provenait de l'installation juste à côté. 
+
+Le concept que j'aimerais reprendre serait celui de la profondeur mise en avant par l'artiste. Je trouve qu'elle a été bien réussie et qu'elle ajoutait réellement de la présence à l'oeuvre. Sans cette petite touche, les oeuvres auraient parues très petites comparées aux autres qui étaient plus grosses. C'est une idée que j'aimerais reprendre à l'avenir.
+
+Cependant, je n'ai pas réellement aimé le fait que les fils soient apparents ou que la durée de rotation soient aussi lente. Ça peut devenir rapidement ennuyeux pour quelqu'un d'impatient et ce n'est pas quelque chose que j'aimerais reprendre dans mes oeuvres futures.
  
 
  ### 12. Références :
