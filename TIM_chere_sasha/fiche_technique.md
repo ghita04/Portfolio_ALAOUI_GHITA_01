@@ -46,8 +46,11 @@ L'installation est composée d’une pièce divisée en deux dont le lit qui se 
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
 - Projecteur 
-- Ordinateur 
 - Haut-parleurs 
+
+![projecteur_haut_parleur_sasha](medias/photographies/projecteur_haut_parleur_sasha.jpg)
+
+- Un ordinateur
 - Un lit 
 - Divers objets de décoration (journal, posters, téléphone, etc.) 
 - Plusieurs lampes pour l'éclairage
