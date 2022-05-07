@@ -36,6 +36,8 @@ L'oeuvre prend la largeur d'un mur au complet et est composé de trois dispositi
 
 Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lignes dessinées à la main à l'ordinateur à l'aide d'un logiciel permet de produire une géométrie perceptuelle, c'est-à-dire une illusion d’optique qui pousse notre cerveau à voir un autre mouvement. Pour ce qui est de la lumière, l'artiste a changé la gélatine de l’éclairage pour de la gélatine bleuté pour créer un éclairage plus froid et ainsi apporter une précision et rendre l’œuvre plus vivante en mettant le jeu des bras mécaniques en valeur. De plus, pour économiser de l'énergie, des détecteur de mouvement sont placés devant chacune des sculptures pour économiser de l’énergie et ainsi pouvoir laisser le mécanisme se reposer lorsqu'il n'y a pas de public. Il n'y pas réellement de système de son dans cette oeuvre étant donné qu'elle utilise le son de l'oeuvre à côté. 
 
+![espace_installation_bechard_hudon](medias/photographies/espace_installation_bechard_hudon.jpg)
+
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
 - Projecteurs de lumière 
