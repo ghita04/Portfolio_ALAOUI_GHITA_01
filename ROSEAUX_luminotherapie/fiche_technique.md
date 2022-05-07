@@ -65,6 +65,8 @@ Les différentes tiges étaient situées à distances équivalentes l'une de l'a
 - Tapis en caoutchouc 
 - Haut-parleur intégré à la base 
 
+![haut_parleur_base_roseaux](medias/photographies/haut_parleur_base_roseaux.jpg)
+
 ### 11. Expérience vécue :
  
 Mon expérience de l'oeuvre a assez été mitigée au début. En effet, je ne comprenais pas vraiment comment utiliser le dispositif et ce n'est qu'au bout de quelques essais que j'ai fini par comprendre comment ça marchait. Après avoir réellement compris comment l'utiliser, l'expérience était plutôt amusante et j'ai eu beaucoup de plaisir à rentrer en compétition avec mes deux amies qui étaient présentes avec moi. Chacune voulait tenter de gagner et ça occasionnait beaucoup de fous rires. En bref, j'ai vraiment adoré essayer l'oeuvre *Roseaux* et encore plus avec mes amies.
