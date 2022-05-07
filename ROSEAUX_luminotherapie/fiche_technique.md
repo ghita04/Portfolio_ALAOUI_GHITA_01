@@ -44,11 +44,13 @@ L'oeuvre *Roseaux* se trouve dans un terrain assez large et se déroule à l'ext
 (Ce schéma est tiré du site Web dédié à l'exposition *Luminothérapie* sur le site de *Montréal en lumière*)
 
 
-Les différentes tiges étaient situées à distances équivalentes l'une de l'autre tout en se laissant assez d'espace pour permettre aux différents groupes d'utiliser chacun une tige de l'exposition. Elle est entourée de bâtiments divers et se trouve en plein centre de la rue pavée qui sépare les bâtiments de gauche de ceux de droite. Pour ce qui est du dispositif, son physique est assez simple. Il s'agit d'une tige lumieuse qui s'élève vers le ciel avec un socle circulaire noir et un dessus aussi lumineux que la tige elle-même. Lorsque l'utilisateur frappe les petits boutons présents sur la base, une musique commence et s'accélère au fur et à mesure que les pas s'accélèrent aussi. Plus l'utilisateur frappent rapidement du pied, plus une lumière qui correspond à celle du côté de l'utilisateur montera dans la tige jusqu'à la recouvrir entièrement. Le gagnant est celui qui arrive à faire dominer sa couleur dans la tige.
+Les différentes tiges étaient situées à distances équivalentes l'une de l'autre tout en se laissant assez d'espace pour permettre aux différents groupes d'utiliser chacun une tige de l'exposition. Elle est entourée de bâtiments divers et se trouve en plein centre de la rue pavée qui sépare les bâtiments de gauche de ceux de droite. Pour ce qui est du dispositif, son physique est assez simple. Il s'agit d'une tige lumieuse qui s'élève vers le ciel avec un socle circulaire noir et un dessus aussi lumineux que la tige elle-même. Lorsque l'utilisateur frappe les petits boutons présents sur la base, une musique commence et s'accélère au fur et à mesure que les pas s'accélèrent aussi. Plus l'utilisateur frappent rapidement du pied, plus une lumière qui correspond à celle du côté de l'utilisateur montera dans la tige jusqu'à la recouvrir entièrement. Le gagnant est celui qui arrive à faire dominer sa couleur dans la tige. Voilà à quoi ressemble l'ensemble de l'installation :
+
+![espace_installation_roseaux](medias/photographies/espace_installation_roseaux.jpg)
+
+Et voilà comment elle fonctionne : 
 
 (Inserer video avec mat et cam)
-(Inserer photo de l'espace)
-
 
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
