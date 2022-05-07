@@ -2,6 +2,8 @@
 
 *Roseaux*
 
+![photo_roseaux](medias/photographies/photo_roseaux.jpg)
+
 ### 2. Nom de l'artiste ou de la firme :
 
 - Direction artistique et création : ITOMN 
