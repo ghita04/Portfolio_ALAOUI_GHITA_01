@@ -48,6 +48,10 @@ L'installation est composée d’une pièce divisée en deux dont le lit qui se 
 ### 11. Expérience vécue :
 
 J'ai adoré mon expérience de l'oeuvre *Chère Sasha* autant pour le niveau sonore que visuel. Le fait que ce soit les membres de l'équipe elle-même qui ont pris la peine de dessiner les posters et d'écrire les deux journaux intimes à la main m'as absoluement fasciné. On voyait clairement le nombre d'heures qui a été fournie pour les moindres détails présents et c'était quelque chose qu'on pouvait facilement qualifier d'admirable. L'ajout du téléphone qui reçevait des notifications ou des appels aux moments idéals rajoutait du réalisme à l'expérience et j'ai adoré ça. De plus, l'idée de pouvoir voir tous les messages que le public avant moi avait laissé était une idée originale et elle ajoutait une touche créative à l'expérience.
+
+Ce que je reprendrais de cette oeuvre, c'est sans aucun doute son côté créatif. La manière dont est abordé la sexualité est particulièrement intéressante et je trouve leur approche artistique inspirante pour mes futurs projets à venir. De plus, le message est passé très clairement et c'est aussi ce que je voudrais reproduire avec mes oeuvres.
+
+Pour être honnête, je ne trouve aucun point négatif à cette oeuvre. L'organisation était bien présente et le résultat incroyable en témoigne. Le nombre de détails mis dans cette oeuvre en témoigne et il n'y a rien que j'ai pu considérer comme quelque chose de négatif et que j'aimerais éviter.
  
 
  ### 12. Références :
