@@ -58,6 +58,8 @@ L'installation est composée d’une pièce divisée en deux dont le lit qui se 
 - Divers objets de décoration (journal, posters, téléphone, etc.) 
 - Plusieurs lampes pour l'éclairage
 
+(Toutes ces photos vient du site Web TIM dédié à l'oeuvre *Chère Sasha*)
+
 ### 11. Expérience vécue :
 
 J'ai adoré mon expérience de l'oeuvre *Chère Sasha* autant pour le niveau sonore que visuel. Le fait que ce soit les membres de l'équipe elle-même qui ont pris la peine de dessiner les posters et d'écrire les deux journaux intimes à la main m'as absoluement fasciné. On voyait clairement le nombre d'heures qui a été fournie pour les moindres détails présents et c'était quelque chose qu'on pouvait facilement qualifier d'admirable. L'ajout du téléphone qui reçevait des notifications ou des appels aux moments idéals rajoutait du réalisme à l'expérience et j'ai adoré ça. De plus, l'idée de pouvoir voir tous les messages que le public avant moi avait laissé était une idée originale et elle ajoutait une touche créative à l'expérience.
