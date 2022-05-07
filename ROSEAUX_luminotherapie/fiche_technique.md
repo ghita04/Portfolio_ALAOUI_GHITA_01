@@ -65,7 +65,7 @@ Les différentes tiges étaient situées à distances équivalentes l'une de l'a
 - Tapis en caoutchouc 
 - Haut-parleur intégré à la base 
 
-![haut_parleur_base_roseaux](medias/photographies/haut_parleur_base_roseaux.jpg)
+![haut_parleur_base_roseaux](medias/photographies/haut_parleur_roseaux.jpg)
 
 ### 11. Expérience vécue :
  
