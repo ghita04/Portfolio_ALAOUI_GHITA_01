@@ -2,8 +2,6 @@
 
 *Roseaux*
 
-![photo_roseaux](medias/photographies/photo_roseaux.jpg)
-
 ### 2. Nom de l'artiste ou de la firme :
 
 - Direction artistique et création : ITOMN 
@@ -55,6 +53,9 @@ Les différentes tiges étaient situées à distances équivalentes l'une de l'a
 - Bâton lumineux 
 - Socle lumineux 
 - Tiges de métal 
+
+![photo_roseaux](medias/photographies/photo_roseaux.jpg)
+
 - Fils 
 - Cache-fils 
 - Tapis en caoutchouc 
