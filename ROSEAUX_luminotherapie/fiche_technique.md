@@ -60,6 +60,8 @@ Les différentes tiges étaient situées à distances équivalentes l'une de l'a
 - Cache-fils 
 
 ![fils_et_cache_fils_roseaux](medias/photographies/fil_et_cache_fil_roseaux.jpg)
+![fils_et_cache_fils_roseaux_02](medias/photographies/fil_et_cache_fil_roseaux_02.jpg)
+
 - Tapis en caoutchouc 
 - Haut-parleur intégré à la base 
 
