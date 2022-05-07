@@ -42,9 +42,9 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 
 - Projecteurs de lumière 
 - Gélatine bleu 
-- Fils d'alimentation
 - Formes d'acrylique 
 - Tiges mécaniques
+- Fils d'alimentation
 - Détecteurs de mouvement 
 - Barres de métal pour accrocher l'oeuvre 
 
