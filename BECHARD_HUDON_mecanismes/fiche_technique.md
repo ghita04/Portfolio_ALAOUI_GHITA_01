@@ -49,6 +49,8 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 - Détecteurs de mouvement 
 - Barres de métal pour accrocher l'oeuvre 
 
+![barre_metal_bechard_hudon](medias/photographies/barre_metal_bechard_hudon.jpg)
+
 ### 11. Expérience vécue :
 
 Mon expérience de l'oeuvre était assez banale étant donné que je ne pouvais pas réellement intéragir avec l'oeuvre. La seule chose qui m'as réeellement fait vivre quelque chose était le moment où les deux formes se croisaient et l'illusion d'optique se mettait à apparaitre. C'était tellement apaisant à regarder, encore plus avec le son qui provenait de l'installation juste à côté. 
