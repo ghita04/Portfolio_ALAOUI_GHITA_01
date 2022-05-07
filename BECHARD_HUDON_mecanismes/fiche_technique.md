@@ -42,6 +42,9 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 ### 9. Liste des composantes qui constituent l'oeuvre :
 
 - Projecteurs de lumière 
+
+![projecteur_bechard_hudon](medias/photographies/projecteur_bechard_hudon.jpg)
+
 - Gélatine bleu 
 - Formes d'acrylique 
 - Tiges mécaniques
