@@ -21,11 +21,11 @@ L'oeuvre a été présentée dans le cadre de l'évènement *Moebius* au collèg
 
 Le grand studio (C-1712) au collège Montmorency.
 
-### 6. Date de votre visite : 
+### 6. Date de ma visite : 
 
  23 mars 2022
 
-### 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+### 7. Description de l'oeuvre ou du dispositif multimédia :
 
 "Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne."
 
@@ -96,3 +96,5 @@ Le concept de base du jeu m'avait intrigué et c'était un de mes premiers choix
 5. *3 minutes* et *Distorsion collective*
 
 Pour ces deux-là, je n'ai malheureusement pas d'avis après les avoir expérimenté vu que je n'y ai pas eu accès. Pour le premier jeu VR, *3 minutes*, lorsque nous avons voulu l'essayer, nous avons remarqué que l'équipe avait de la difficulté à faire fonctionner leur casque VR, donc on a tout simplement pas eu le temps de l'essayer après qu'il ait été réparé beaucoup plus tard. Pour ce qui est de *Distorsion collective*, il y avait à chaque fois quelqu'un qui utilisait le casque VR, donc je n'ai pas eu la chance de l'essayer non plus.
+
+### 14. Croquis :
