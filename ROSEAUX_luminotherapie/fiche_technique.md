@@ -21,11 +21,11 @@ L'exposition s'appelle *Luminothérapie*. D'ailleurs, c'est la 12e édition qui 
 
 Quartier des spectacles à Montréal
 
-### 6. Date de votre visite : 
+### 6. Date de ma visite : 
 
 16 février 2022 
 
-### 7. Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source) : 
+### 7. Description de l'oeuvre ou du dispositif multimédia :
 
 "Bouger n'aura jamais été aussi amusant qu'avec *Roseaux*, une installation "participative" et interactive. Composée de tiges individuelles qui s'élèvent dans le ciel, l'installation *Roseaux* invite le public à activer les bases en tapant du pied sur les boutons senseurs, insufflant des rythmes colorés qui voyagent jusqu'au sommet des tiges.
 
@@ -35,7 +35,7 @@ Seul ou à plusieurs, on s'active dans une course effervescente et ludique dans 
 
 ![capture_ecran_cartel_roseaux](medias/photographies/capture_ecran_cartel_roseaux.png)
 
-### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer) : 
+### 8. Explications sur la mise en espace de l'oeuvre ou du dispositif : 
 
 L'oeuvre *Roseaux* se trouve dans un terrain assez large et se déroule à l'extérieur dans le cadre de l'évènement Montréal en lumière. Voilà un petit schéma du lieu pour situer un peu plus sa position
 
@@ -80,3 +80,5 @@ Pour ce qui est du négatif, il n'y a pas grand chose que je n'ai pas aimé sur 
 - https://sergemaheu.com/?portfolio=roseaux
 - https://www.montrealenlumiere.com/SiteExterieur/OeuvresLumineuses
 - https://www.mtl.org/fr/experience/luminotherapie
+
+### 13. Croquis :
