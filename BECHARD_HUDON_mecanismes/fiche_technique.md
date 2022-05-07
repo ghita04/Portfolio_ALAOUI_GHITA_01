@@ -47,6 +47,9 @@ Cependant, il n'y a pas réellement un mouvement qui se passe au centre. Les lig
 - Tiges mécaniques
 - Fils d'alimentation
 - Détecteurs de mouvement 
+
+![fils_et_detecteur_bechard_hudon](medias/photographies/fils_et_detecteur_bechard_hudon.jpg)
+
 - Barres de métal pour accrocher l'oeuvre 
 
 ![barre_metal_bechard_hudon](medias/photographies/barre_metal_bechard_hudon.jpg)
